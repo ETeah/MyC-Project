@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 15c494ab66dfb4eca81090f5fd517121
+timeCreated: 1483415361
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Springmarch
+  fontNames:
+  - Springmarch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
