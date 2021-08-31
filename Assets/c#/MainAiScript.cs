@@ -47,7 +47,7 @@ public class MainAiScript : MonoBehaviour {
 
 			if (direction.magnitude > 5) {
 				ZombieAnimator.SetBool ("walk",true);
-				this.transform.Translate (0, 0, 0.5f);
+				this.transform.Translate (0, 0, 0.5f * Time.fixedDeltaTime);
 
 			}
 
